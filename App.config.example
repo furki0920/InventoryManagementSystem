@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configuration>
+
+    <connectionStrings>
+
+        <add
+            name="InventoryDB"
+            connectionString="Data Source=YOUR_SERVER;
+                              Initial Catalog=YOUR_DATABASE;
+                              User ID=YOUR_USERNAME;
+                              Password=YOUR_PASSWORD;
+                              TrustServerCertificate=True"
+            providerName="System.Data.SqlClient"/>
+
+    </connectionStrings>
+
+</configuration>
