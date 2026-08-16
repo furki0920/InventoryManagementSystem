@@ -183,5 +183,5 @@ Potential future improvements include:
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/furkan-akça-030354295/) · [GitHub](https://github.com/furki0920)
+[LinkedIn](https://www.linkedin.com/in/furkan-ak%C3%A7a-030354295/) · [GitHub](https://github.com/furki0920)
 
